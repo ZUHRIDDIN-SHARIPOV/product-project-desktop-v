@@ -1,0 +1,36 @@
+.site-footer__list {
+  background: #02897a;
+  border-radius: 32px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1110px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.site-footer__item-title {
+  max-width: 510px;
+  padding: 49px 0 51px 51px;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 151.4%;
+  color: #ffffff;
+}
+.site-footer__item-btn {
+  background: #ffffff;
+  border-radius: 8px;
+  border: none;
+  padding: 13px 35px 7px 33px;
+  margin-left: 51px;
+  margin-bottom: 56px;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #02897a;
+}
+.site-footer__item-img {
+  max-width: 351px;
+}
